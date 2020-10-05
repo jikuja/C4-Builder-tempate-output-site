@@ -1,4 +1,21 @@
 {
 	"plantumlVersion": "latest",
-	"projectName": "C4-Builder-tempate-output-site"
+	"projectName": "C4-Builder-tempate-output-site",
+	"homepageName": "Overview",
+	"rootFolder": "src",
+	"distFolder": "docs",
+	"generateMD": false,
+	"generatePDF": true,
+	"generateCompleteMD": false,
+	"generateCompletePDF": true,
+	"generateWEB": true,
+	"webTheme": "//unpkg.com/docsify/lib/themes/vue.css",
+	"repoUrl": "",
+	"webPort": "3000",
+	"pdfCss": "/Users/janne.kujanpaa/.nvm/versions/node/v12.18.3/lib/node_modules/c4builder/pdf.css",
+	"includeBreadcrumbs": true,
+	"includeLinkToDiagram": false,
+	"diagramsOnTop": true,
+	"generateLocalImages": true,
+	"charset": "UTF-8"
 }
