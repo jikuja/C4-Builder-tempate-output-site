@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="715px" preserveAspectRatio="none" style="width:461px;height:715px;" version="1.1" viewBox="0 0 461 715" width="461px" zoomAndPan="magnify"><defs/><g><!--MD5=[055880c5ddffda0f84a4901cdc35d67e]
+entity pbc--><rect fill="#08427B" height="155.1523" style="stroke: #073B6F; stroke-width: 1.5;" width="217" x="147" y="8"/><image height="48" width="48" x="231.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="18"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="142" x="182" y="81.4688">Personal Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="216" y="100.3125">Customer</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="257.5" y="117.2227"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="197" x="157" y="133.7109">A customer of the bank, with</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="167" x="172" y="150.1992">personal bank accounts.</text><!--MD5=[c3a5f5576f415212c599a036db299880]
+entity ibs--><rect fill="#1168BD" height="121.2852" style="stroke: #3C7FC0; stroke-width: 1.5;" width="219" x="56" y="239"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="199" x="66" y="264.4688">Internet Banking System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="167.5" y="281.3789"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="172" x="77.5" y="297.8672">Allows customers to view</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="199" x="66" y="314.3555">information about their bank</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="136" x="95.5" y="330.8438">accounts, and make</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="130.5" y="347.332">payments.</text><!--MD5=[ded6a69210fbbc7961dee7b773232267]
+entity es--><rect fill="#999999" height="88.3086" style="stroke: #8A8A8A; stroke-width: 1.5;" width="191" x="250" y="476"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="118" x="286.5" y="501.4688">E-mail system</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="347.5" y="518.3789"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="268" y="534.8672">The internal Microsoft</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="260" y="551.3555">Exchange e-mail system.</text><!--MD5=[caf83f36d3620b5db28366bd7d249751]
+entity mbs--><rect fill="#999999" height="140.1289" style="stroke: #8A8A8A; stroke-width: 1.5;" width="209" x="6" y="450"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="160" x="28" y="475.4688">Mainframe Banking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="58" x="81.5" y="494.3125">System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="112.5" y="511.2227"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="38" y="527.7109">Stores all of the core</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="16" y="544.1992">banking information about</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="36.5" y="560.6875">customers, accounts,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="52.5" y="577.1758">transactions, etc.</text><!--MD5=[98e01a7234e85770a456968f71e6c5e9]
+link pbc to ibs--><path d="M223.01,163.04 C213.55,185.32 203.29,209.48 194.09,231.15 " fill="none" id="pbc-&gt;ibs" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="190.88,238.71,196.7671,232.5179,191.2439,230.1738,190.88,238.71" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="30" x="208.5" y="205.6016">Uses</text><!--MD5=[8b7693a20d41c2a1fa27d9f6a96ec3b6]
+link es to pbc--><path d="M338.53,475.94 C334.37,450.83 328.87,418.58 323.5,390 C310.85,322.67 307.47,305.86 292.5,239 C287.57,216.98 281.96,193.24 276.62,171.21 " fill="none" id="es-&gt;pbc" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="274.67,163.17,273.6375,171.6514,279.4689,170.239,274.67,163.17" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="318.5" y="304.1016">Sends e-mails to</text><!--MD5=[0ec9a61f79210bc80932d30a452e0019]
+link ibs to es--><path d="M190.68,360.14 C200.6,380.2 213.1,402.04 227.5,420 C242.1,438.21 260.46,455.51 278.32,470.41 " fill="none" id="ibs-&gt;es" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="284.87,475.78,280.5855,468.3879,276.7814,473.0278,284.87,475.78" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="228.5" y="402.6016">Sends e-mails</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="39" x="254" y="416.7344">[SMTP]</text><!--MD5=[a37af661f95bf4f79caa5b0d19728c2c]
+link ibs to mbs--><path d="M140.95,360.13 C137.43,370 134.13,380.21 131.5,390 C127.08,406.48 123.44,424.41 120.51,441.51 " fill="none" id="ibs-&gt;mbs" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="119.13,449.83,123.4044,442.432,117.486,441.4457,119.13,449.83" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="30" x="132.5" y="409.6016">Uses</text><rect fill="#FFFFFF" height="96.4414" rx="5" ry="5" style="stroke: #FFFFFF; stroke-width: 1.0;" width="129" x="321" y="608"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="51" x="327" y="628.5352">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="382" y="628.5352"/><rect fill="#08427B" height="16.4883" style="stroke: none; stroke-width: 1.0;" width="117" x="327" y="631.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="331" y="645.0234">person</text><rect fill="#1168BD" height="16.4883" style="stroke: none; stroke-width: 1.0;" width="117" x="327" y="647.9766"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="331" y="661.5117">system</text><rect fill="#686868" height="16.4883" style="stroke: none; stroke-width: 1.0;" width="117" x="327" y="664.4648"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="331" y="678">external person</text><rect fill="#999999" height="16.4883" style="stroke: none; stroke-width: 1.0;" width="117" x="327" y="680.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="331" y="694.4883">external system</text><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="444" y1="615" y2="615"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="444" y1="631.4883" y2="631.4883"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="444" y1="647.9766" y2="647.9766"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="444" y1="664.4648" y2="664.4648"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="444" y1="680.9531" y2="680.9531"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="444" y1="697.4414" y2="697.4414"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="327" x2="327" y1="615" y2="697.4414"/><line style="stroke: #FFFFFF; stroke-width: 1.0;" x1="444" x2="444" y1="615" y2="697.4414"/><!--MD5=[94ab29d2e20220e316d6ebd43f900c75]
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+
+rectangle "<$person>\n==Personal Banking Customer\n\n A customer of the bank, with personal bank accounts." <<person>> as pbc
+rectangle "==Internet Banking System\n\n Allows customers to view information about their bank accounts, and make payments." <<system>> as ibs
+rectangle "==E-mail system\n\n The internal Microsoft Exchange e-mail system." <<external_system>> as es
+rectangle "==Mainframe Banking System\n\n Stores all of the core banking information about customers, accounts, transactions, etc." <<external_system>> as mbs
+
+pbc - ->> ibs : **Uses**
+es - ->> pbc : **Sends e-mails to**
+ibs - ->> es : **Sends e-mails**\n//<size:12>[SMTP]</size>//
+ibs - ->> mbs : **Uses**
+@enduml
+
+PlantUML version 1.2020.07(Sun Apr 19 14:42:40 EEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 14.0.1+14
+Operating System: Mac OS X
+Default Encoding: UTF-8
+Language: en
+Country: FI
+--></g></svg>

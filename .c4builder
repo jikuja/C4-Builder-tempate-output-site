@@ -17,5 +17,6 @@
 	"includeLinkToDiagram": false,
 	"diagramsOnTop": true,
 	"generateLocalImages": true,
-	"charset": "UTF-8"
+	"charset": "UTF-8",
+	"hasRun": true
 }
